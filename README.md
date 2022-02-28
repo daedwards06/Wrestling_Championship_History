@@ -16,7 +16,7 @@ This is a Expoloratory Data Analysis of Wrestling Championship History across mu
 
 ## Roadmap
 
-- Web scrape Championship History from all promotions (Only WWE so far)
+- Web scrape Championship History from all promotions (still need to get WCW and NWA History, all other promotions included)
 
 - Clean up full dataset
 
